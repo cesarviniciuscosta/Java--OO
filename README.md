@@ -1,2 +1,2 @@
 # Java-Poo
-Soluções sobre algums explicações e atividades realizadas no treinamento da Caelum fj11 - Java OO
+Solucoes sobre atividades realizadas dentro do treinamneto Caelum fj11 - Java OO
